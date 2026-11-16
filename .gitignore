@@ -1,0 +1,17 @@
+
+# Executaveis e arquivos de compilacao
+*.exe
+*.o
+*.obj
+
+# Logs e arquivos temporarios
+*.log
+*.tmp
+*.bak
+
+# Configuracoes locais do VS Code
+.vscode/
+
+# Arquivos temporarios do Python
+__pycache__/
+*.pyc

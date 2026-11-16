@@ -1,0 +1,5 @@
+101;Teclado Mecânico;Perifericos ;10;150
+102;Mouse Gamer;Perifericos;15;80
+103;Monitor LED;Monitores;8;900
+104;Webcam Full HD;Acessorios ;8;125.5
+105;SSD 500GB;Armazenamento;12;250
