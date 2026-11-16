@@ -15,3 +15,6 @@
 # Arquivos temporarios do Python
 __pycache__/
 *.pyc
+
+# Arquivos compactados
+*.zip
